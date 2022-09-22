@@ -84,11 +84,11 @@ np.argmax(model.predict(img_28_gray_scaled.reshape(1,28,28,1)),axis=1)
 ## OUTPUT
 
 ![image](https://user-images.githubusercontent.com/75235022/191758877-9c3798a4-7486-4b42-914d-25f3f5c52a5e.png)
-###Classification Report
+### Classification Report
 ![image](https://user-images.githubusercontent.com/75235022/191760299-ece89d06-91ca-451e-a368-9b12f65495ee.png)
-###Confusion Matrix
+### Confusion Matrix
 ![image](https://user-images.githubusercontent.com/75235022/191760361-325a0809-4600-49c5-bfc1-75a8901ca91b.png)
-###New Sample Data Prediction
+### New Sample Data Prediction
 ![image](https://user-images.githubusercontent.com/75235022/191760417-3156388b-d5f7-4be5-a537-42f8346f05f8.png)
 
 
